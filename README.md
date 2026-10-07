@@ -1,4 +1,4 @@
-# THE AI EVAL MINDSET EXPANDED
+# BOOK - THE AI EVAL MINDSET EXPANDED
 
 **The Engineering Blueprint for Testing, Calibrating, and Monitoring Production AI**
 
