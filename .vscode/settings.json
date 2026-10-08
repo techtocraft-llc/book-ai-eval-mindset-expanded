@@ -1,0 +1,70 @@
+{
+  "workbench.colorCustomizations": {
+    "editor.background": "#ffffff",
+    "editor.foreground": "#000000",
+    "sideBar.background": "#eaeaea",
+    "activityBar.background": "#dedede",
+    "statusBar.background": "#dedede",
+    "titleBar.activeBackground": "#dedede",
+    "editorLineNumber.foreground": "#71717a",
+    "editorLineNumber.activeForeground": "#18181b"
+  },
+  "editor.fontFamily": "'Courier New', Courier, monospace",
+  "editor.fontSize": 10,
+  "editor.copyWithSyntaxHighlighting": true,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "name": "Darken strings and output templates",
+        "scope": [
+          "string",
+          "string.quoted",
+          "variable.other",
+          "variable.parameter"
+        ],
+        "settings": {
+          "foreground": "#000000"
+        }
+      },
+      {
+        "name": "Darken curly brackets/punctuation templates",
+        "scope": [
+          "punctuation.definition.string",
+          "punctuation.section.embedded",
+          "punctuation.separator",
+          "punctuation.definition.array",
+          "punctuation.separator.element",
+          "punctuation.separator.sequence"
+        ],
+        "settings": {
+          "foreground": "#000000",
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "name": "Darken and bold markdown bold text",
+        "scope": [
+          "markup.bold",
+          "punctuation.definition.bold.markdown"
+        ],
+        "settings": {
+          "foreground": "#000000",
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "name": "Darken and bold JSON curly braces",
+        "scope": [
+          "punctuation.definition.dictionary.begin",
+          "punctuation.definition.dictionary.end",
+          "punctuation.section.dictionary.begin",
+          "punctuation.section.dictionary.end"
+        ],
+        "settings": {
+          "foreground": "#000000",
+          "fontStyle": "bold"
+        }
+      }
+    ]
+  }
+}
