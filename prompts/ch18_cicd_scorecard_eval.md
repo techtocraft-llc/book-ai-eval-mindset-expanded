@@ -69,4 +69,4 @@ Evaluator Output:
 ```
 
 📂 Source code on GitHub :
-github.com/eaccmk/book-ai-eval-mindset-expanded/prompts/ch18_cicd_scorecard_eval.md
+github.com/techtocraft-llc/book-ai-eval-mindset-expanded/prompts/ch18_cicd_scorecard_eval.md

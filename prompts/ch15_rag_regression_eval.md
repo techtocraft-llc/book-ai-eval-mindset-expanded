@@ -73,4 +73,4 @@ Evaluator Output:
 ```
 
 📂 Source code on GitHub :
-github.com/eaccmk/book-ai-eval-mindset-expanded/prompts/ch15_rag_regression_eval.md
+github.com/techtocraft-llc/book-ai-eval-mindset-expanded/prompts/ch15_rag_regression_eval.md

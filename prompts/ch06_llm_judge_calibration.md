@@ -63,4 +63,4 @@ Evaluator Output:
 ```
 
 📂 Source code on GitHub :
-github.com/eaccmk/book-ai-eval-mindset-expanded/prompts/ch06_llm_judge_calibration.md
+github.com/techtocraft-llc/book-ai-eval-mindset-expanded/prompts/ch06_llm_judge_calibration.md
