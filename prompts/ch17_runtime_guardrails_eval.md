@@ -66,4 +66,4 @@ Evaluator Output:
 ```
 
 📂 Source code on GitHub :
-github.com/techtocraft-llc/book-ai-eval-mindset-expanded/prompts/ch17_runtime_guardrails_eval.md
+https://github.com/techtocraft-llc/book-ai-eval-mindset-expanded/blob/main/prompts/ch17_runtime_guardrails_eval.md

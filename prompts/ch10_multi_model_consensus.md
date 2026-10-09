@@ -67,4 +67,4 @@ Evaluator Output:
 ```
 
 📂 Source code on GitHub :
-github.com/techtocraft-llc/book-ai-eval-mindset-expanded/prompts/ch10_multi_model_consensus.md
+https://github.com/techtocraft-llc/book-ai-eval-mindset-expanded/blob/main/prompts/ch10_multi_model_consensus.md

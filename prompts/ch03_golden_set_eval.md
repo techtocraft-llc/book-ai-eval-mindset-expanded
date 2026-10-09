@@ -64,4 +64,4 @@ Evaluator Output:
 ```
 
 📂 Source code on GitHub :
-github.com/techtocraft-llc/book-ai-eval-mindset-expanded/prompts/ch03_golden_set_eval.md
+https://github.com/techtocraft-llc/book-ai-eval-mindset-expanded/blob/main/prompts/ch03_golden_set_eval.md

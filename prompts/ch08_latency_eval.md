@@ -57,4 +57,4 @@ Evaluator Output:
 ```
 
 📂 Source code on GitHub :
-github.com/techtocraft-llc/book-ai-eval-mindset-expanded/prompts/ch08_latency_eval.md
+https://github.com/techtocraft-llc/book-ai-eval-mindset-expanded/blob/main/prompts/ch08_latency_eval.md
